@@ -2,6 +2,9 @@
 Radial Analytics Coding Assignment 
 
 
+Please execute the jar file under the same directory as data.csv
+
+
 Execution Instructions:
 
 
