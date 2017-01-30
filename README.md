@@ -2,7 +2,7 @@
 Radial Analytics Coding Assignment 
 
 
-Running Instructions:
+Execution Instructions:
 
 
 java -jar Radial_Analytics_Assignment.jar \<output1.csv> \<output2.csv>
